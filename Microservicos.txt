@@ -1,0 +1,2 @@
+Microservicos sao pedacos de software que eu posso disponibilizar via HTTP e consumir atraves do mesmo prtocolo, o HTTP, usando diferentes tipos de clients
+	- potencial de reuso de codigo
