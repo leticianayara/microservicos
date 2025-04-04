@@ -1,2 +1,8 @@
 Microservicos sao pedacos de software que eu posso disponibilizar via HTTP e consumir atraves do mesmo prtocolo, o HTTP, usando diferentes tipos de clients
 	- potencial de reuso de codigo
+
+SOAP X REST
+
+SOAP - é um protocolo que usa um envelopamento proprio. O envelopes SOAP usando o HTTP para fazer chamadas RPC trafegando o XML
+REST - é um modelo arquitetural que segue as constraints arquiteturais que o Roy Fielding definiu em sua tese
+
